@@ -24,6 +24,25 @@ In this project, we will:
 - Publish Docker images to Docker Hub.
 - Pull and run the application image on another machine.
 
+Application Screenshots
+
+1. Sentiment Analyzer – Input Page
+
+Enter your text into the input field and click Analyze Sentiment to analyze its emotional tone.
+
+2. Sentiment Analysis – Result Page
+
+The application displays the predicted sentiment along with its confidence score.
+
+Example Output:
+
+Input: i am happy
+
+Sentiment: POSITIVE
+
+Confidence Score: 0.9999
+
+
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
