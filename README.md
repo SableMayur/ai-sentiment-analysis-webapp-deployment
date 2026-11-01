@@ -27,12 +27,12 @@ In this project, we will:
 Application Screenshots
 
 1. Sentiment Analyzer – Input Page
-
 Enter your text into the input field and click Analyze Sentiment to analyze its emotional tone.
+![Sentiment Analyzer](screenshots/sentiment-analyzer.png)
 
 2. Sentiment Analysis – Result Page
-
 The application displays the predicted sentiment along with its confidence score.
+![Analysis Result](screenshots/analysis-result.png)
 
 Example Output:
 
